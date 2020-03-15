@@ -5,7 +5,13 @@
     box-sizing: border-box;
 }
 
+body {
+    background: #6699bb;
+}
+
 .number {
+    text-align: center;
+    color: white;
     font-size: 36px;
     padding: 30px;
 }
