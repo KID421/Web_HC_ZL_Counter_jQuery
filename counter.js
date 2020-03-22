@@ -6,11 +6,11 @@ $(window).scroll(function () {
     $("*").each(function() {
 
         var windowTop = $(window).scrollTop();  // 視窗高度
-        console.log("視窗高度：" + windowTop);
+        // console.log("視窗高度：" + windowTop);
 
         var offset = $(this).offset();          // 元素高度
         var top = offset.top;
-        console.log("目前元素的高度：" + top);
+        // console.log("目前元素的高度：" + top);
 
         // 如果 視窗高度 > 元素高度 - 值
         if (windowTop > top - 800) {
