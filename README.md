@@ -2,7 +2,7 @@
 網頁 赫綵中壢 計數器 jQuery
 
 # 範例
-https://kid421.github.io/Web_HC_ZL_Counter_jQuery/index.html
+https://kid421.github.io/Web_HC_ZL_Counter_jQuery/
 
 # CDN
 jQuery CDN
