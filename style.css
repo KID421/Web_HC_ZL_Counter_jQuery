@@ -7,6 +7,8 @@
 
 body {
     background: #6699bb;
+    height: 3000px;
+    padding: 100px 0;
 }
 
 .number {
@@ -14,4 +16,5 @@ body {
     color: white;
     font-size: 36px;
     padding: 30px;
+    margin: 300px 0;
 }
